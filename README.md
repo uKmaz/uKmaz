@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning C#, Java, Unity.
 - 📫 How to reach me
 - Linkedin : https://www.linkedin.com/in/emre-u%C3%A7maz-449533296/
-- Instagram : ucmazj
+- Instagram : https://www.instagram.com/ucmazj/
 
 
