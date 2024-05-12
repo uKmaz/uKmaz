@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uKmaz (Emre Uçmaz)
-- I study at the DEU(TR) Computer Engineering as a Freshman
+- I study at the DEU(Turkey) Computer Engineering as a Freshman
 - 👀 I’m interested in writing codes, leading projects, giving the best presentations and math.
 - 🌱 I’m currently learning C#, Java, Unity.
 - 📫 How to reach me
