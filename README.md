@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @uKmaz (Emre Uçmaz)
-- I study at the DEU(Turkey) Computer Engineering as a Second Year
-- 👀 I’m interested in programming, leading projects, giving the best presentations and math.
-- 🌱 I’m currently learning C#, Java, Unity.
+- I study at the DEU(Turkey) Computer Engineering as a Third Year
+- 👀 I’m interested in game development, app development, math and simple contexts.
+- 🌱 I’m currently improving myself on C#, Java, SQL, Unity
 - 📫 How to reach me
-- Linkedin : https://www.linkedin.com/in/emre-u%C3%A7maz-449533296/
-- Instagram : https://www.instagram.com/ucmazj/
+- Linkedin : www.linkedin.com/in/emreucmaz
 
 
