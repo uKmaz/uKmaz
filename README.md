@@ -6,7 +6,7 @@
 
 * 🔭 I’m currently improving myself on **C#, Java-Spring Boot, SQL, Unity, Move, JS, React** and any tech I find fun.
 * 🎮 Interested in **game development**, **app development**, **math**, and **project management**.
-* 💬 Ask me about **Unity**, **Spring Boot**, or ****.
+* 💬 Ask me about **Unity Game Development**, **Spring Boot Backend Development**, or **App Development**.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emreucmaz)
 
 ---
