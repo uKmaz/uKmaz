@@ -28,6 +28,6 @@
 ### 📊 My GitHub Stats (Auto Updated!)
 
 <p align="left">
-  <img src="https://https://github-readme-stats.vercel.app/api?username=uKmaz&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=uKmaz&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKmaz&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
