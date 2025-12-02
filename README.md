@@ -4,9 +4,9 @@
 
 ### 🌱 What I'm Currently Focused On
 
-* 🔭 I’m currently improving myself on **C#, Java, SQL, Unity, Move, JS, React** and any tech I find fun.
-* 🎮 Interested in **game development**, **app development**, **math**, and **simple but elegant concepts**.
-* 💬 Ask me about **Unity**, **C#**, or **game dev workflows**.
+* 🔭 I’m currently improving myself on **C#, Java-Spring Boot, SQL, Unity, Move, JS, React** and any tech I find fun.
+* 🎮 Interested in **game development**, **app development**, **math**, and **project management**.
+* 💬 Ask me about **Unity Game Development**, **Spring Boot Backend Development**, or **App Development**.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/emreucmaz)
 
 ---
