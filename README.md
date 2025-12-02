@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 My GitHub Stats (Auto Updated!)
+### 📊 My GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uKmaz&show_icons=true&theme=tokyonight" alt="GitHub Stats">
