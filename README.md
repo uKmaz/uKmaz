@@ -25,9 +25,18 @@
 
 ---
 
-### 📊 My GitHub Stats (Auto Updated!)
+### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uKmaz&amp;show_icons=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uKmaz&amp;layout=compact&amp;theme=tokyonight" alt="Top Languages" height="150" />
+  <a href="https://github.com/uKmaz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=uKmaz&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/uKmaz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKmaz&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uKmaz&theme=tokyonight" alt="GitHub Streak" />
 </p>
