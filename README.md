@@ -26,15 +26,8 @@
 ---
 
 ### 📊 My GitHub Stats
-
 <p align="left">
-  <a href="https://github.com/uKmaz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=uKmaz&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/uKmaz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uKmaz&layout=compact&theme=tokyonight" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=uKmaz&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
 </p>
 
 <p align="left">
